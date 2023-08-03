@@ -20,7 +20,7 @@ The results are appended to a file named out_cplex.txt.
 As can be seen from the content of run_cplex.cmd, the dem_cplex.exe requires four parameters:
 
 ```
-dem_cplex.exe ../instances/random/NEW-V1000-P0.025-G0.txt 0 3600 -1
+dem_cplex.exe ../instances/random/NEW-V1000-P0.025-G0.txt 0 3600 0
 ```
 
 These are:
